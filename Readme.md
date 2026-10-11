@@ -17,45 +17,36 @@ Open-Webui
 Searxng
 
 <p align="center">
+<b> Logger Autoload:</b>
+<p>
+The editor has Output and the Errors dock. The loger allows for the bridge to grab runtime errors.
+<p align="center">
 <b>Function Commands:</b>
 
 ping=true
-get_commands=true
-get_scene_tree=true
-get_selected_nodes=true
-get_node_properties=true
-get_node_signals=true
-get_open_scenes=true
-read_file=true
-list_dir=true
-get_open_script=true
-get_output=true
-get_errors=true
-validate_script=true
-class_info=true
-write_file=true
-make_dir=true
-delete_file=true
-move_file=true
-copy_file=true
-delete_dir=true
-spawn_node=true
-spawn_packed_scene=true
-remove_node=true
-reparent_node=true
-rename_node=true
-set_node_property=true
-attach_script=true
-add_to_group=true
-connect_signal=true
-create_scene=true
-save_scene=true
-open_scene=true
-set_main_scene=true
-add_input_action=true
-run_project=true
-run_current_scene=true
-stop_project=true
+get_commands, get_scene_tree, get_selected_nodes, get_node_properties, get_node_signals, get_open_scenes, read_file, list_dir, get_open_script, get_output, get_errors, validate_script, class_info, write_file, make_dir, delete_file, 
+move_file,
+copy_file,
+delete_dir,
+spawn_node,
+spawn_packed_scene,
+remove_node,
+reparent_node,
+rename_node,
+set_node_property,
+attach_script,
+add_to_group,
+connect_signal,
+create_scene,
+save_scene,
+open_scene,
+set_main_scene,
+add_input_action,
+run_project,
+run_current_scene
+stop_project
 </p>
+
+
 
 
